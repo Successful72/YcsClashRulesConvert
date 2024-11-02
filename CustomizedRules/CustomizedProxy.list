@@ -2,3 +2,6 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,ghproxy.com
+
+# DNS防泄漏
+DOMAIN-SUFFIX,public.dns.iij.jp
