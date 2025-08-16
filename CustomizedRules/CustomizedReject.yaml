@@ -1,0 +1,4 @@
+#自定义拒绝规则集
+
+payload:
+ - DOMAIN-SUFFIX,local.adguard.org
